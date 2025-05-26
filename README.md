@@ -49,14 +49,14 @@ This project is an Online Course Management System, a full-stack web application
 5. **Start the server:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 6. **Start the frontend:**
 
     ```bash
     cd client
-    npm start
+    npm run dev
     ```
 
 7. **Open the application in your browser:**
